@@ -11,6 +11,7 @@ form the list that populates, one one entry per search box, you cna apply multip
 select the output folder and the name you wish to call the sanitised file. It is very quick and very capable, enjoy!
 You can also select to conatin the search query or not contain, so you can filter out keywords or show the results. 
 
-1:
+2: CSV_SanitiserMultipleColumns
+This is a version that allows multiple columns to be searched, one one keyword persearch field. 
 
 Not a professional coder, just a hobby. 
