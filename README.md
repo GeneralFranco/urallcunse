@@ -8,4 +8,6 @@ There is the Source, CSV-Sanitiser, opens GUi, select the CSV using the GUI, sel
 Select the Search and choose the Column you want to search, so if the column header is 'Location', select the column 'Location'
 form the list that populates, one one entry per search box, you cna apply multiple searches on multiple columns, then 
 select the output folder and the name you wish to call the sanitised file. It is very quick and very capable, enjoy!
-You can also select to conatin the search query or not contain, so oyu can filter out keywords or show the results. 
+You can also select to conatin the search query or not contain, so you can filter out keywords or show the results. 
+
+Not a professional coder, just a hobby. 
